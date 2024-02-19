@@ -21,4 +21,6 @@ Add your answer to this markdown file. [This
 page](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)
 might help with the notation for mathematical expressions.
 
+A good pivot is the median, or close to the median of all of the elements in an array. 
 The probability of the leftmost element being the median of the array is $\frac{1}{n}$ where $n$ is the number of elements in the array.
+
